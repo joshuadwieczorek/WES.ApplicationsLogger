@@ -1,0 +1,2 @@
+﻿CREATE TYPE [dbo].[Name_Type]
+	FROM NVARCHAR(250);
